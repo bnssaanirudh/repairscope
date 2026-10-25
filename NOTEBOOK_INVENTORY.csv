@@ -1,55 +1,61 @@
-path,git_blob_sha,collection,status,outputs_retained
-"notebooks/01_foundations/02_SDLM_3B_STANDALONE_FIXED_v4.ipynb",d3e8bb8bc7cfc2494cb45ccd5c221cec5f4dd4a9,01_foundations,"source recovered; execution status not inferred",no
-"notebooks/01_foundations/03_RepairBench_X_Controlled_Failures_STANDALONE_FINAL.ipynb",8f61a1cdea73398d38cd1d7497aa91f7b5071b7b,01_foundations,"source recovered; execution status not inferred",no
-"notebooks/01_foundations/05_Repairability_Surface_and_Oracle_AR_Baseline_STANDALONE_FINAL.ipynb",5af73811655d2a375d92bdc5660c27c8718fa7d0,01_foundations,"source recovered; execution status not inferred",no
-"notebooks/01_foundations/06_Repair_Energy_and_Hysteresis_AR_Control_STANDALONE_FIXED_v2.ipynb",87ae698eb6a4c9d4c21d74d53eeeb32bf0dc9304,01_foundations,"source recovered; execution status not inferred",no
-"notebooks/01_foundations/RepairScopeX_Notebook08_Standalone.ipynb",175a716ef7ef678f0faa92914e2045c34070bcef,01_foundations,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/09_Dream7B_DLM_Selective_Remasking_Smoke_STANDALONE.ipynb",dac43e1978ad62f054322e55c7470c7c0a912bfe,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/10_Dream7B_DLM_Repair_Surface_Pilot_STANDALONE.ipynb",04c952b8864f1294676da8e299ad34a1ef2d9e33,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/11_Dream7B_Own_Natural_Failure_Collection_STANDALONE.ipynb",88d88aebd1189d85311224da4534a461c74f466f,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/12_Dream7B_Self_Repair_Surface_STANDALONE.ipynb",6ef393e042e9c1ad7766b8f74a93bdd84f41d87a,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/13_Dream7B_Independent_SelfRepair_Confirmation_STANDALONE.ipynb",dd8cb99671650e097fb831342213dd83c3522a56,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/14_ALoDLM17B_FP32_Own_Failures_STANDALONE.ipynb",c7e9fb2799135e7ec10d8ac4011f74c5c20f7a97,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/15_ALoDLM17B_FP32_Suffix_SelfRepair_STANDALONE.ipynb",c6be6efb69b88c48a964c2a5408057748fae030a,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RSX16_ALoDLM_FP32_Decoder_Ablation.ipynb",70091e4cfffadfd564dd7142f7e2280555e19c06,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RSX_NB18_MDLM_SelfRepair.ipynb",c204d62515c6f5e7b62f6d7917512d3e9b1e1182,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RSX_NB19_BD3LM_SelfRepair.ipynb",90d3fe1e86ffc1be002485aa3b506061c6d50c98,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RepairScopeX_NB21_MDLM_Repair_CohortSafe_v2.ipynb",4aa21aa6ef7b6d122f190008c5301f1ed3237039,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RepairScopeX_NB23_BD3LM_CohortFixed_v2.ipynb",04ed7501d5d99d293bec2ded7f25f4226638effb,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RepairScopeX_NB24_CrossModel_Repair_Atlas.ipynb",b67404158fd88d2c0db8454c10c5d7484df8ed84,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RepairScopeX_NB25_v4_Final_Arbitration_Standalone.ipynb",44f70fa3ef3995830f1590a3e92cbfc0eb337513,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RepairScopeX_NB26_Repair_Persistence_Robustness.ipynb",d9703dcf9002eb62175b88547eba6112216fab02,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RepairScopeX_NB27_PostAdjudication_Evidence_Freeze.ipynb",dd9b05f894971b602bd29c4cee1ee15ebac4521a,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RepairScopeX_NB28_Long_Adaptive_SelfRepair_FP32.ipynb",8fd0e5c1a763e582f18fabcb3ad44cc56f3bbfc0,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RepairScopeX_Notebook20_Generation_Length_v1.ipynb",35927451e2505458169f364d2995409999a7bf00,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/02_native_repair/RepairScopeX_Notebook22_Verification_Statistical_Audit_v1.ipynb",0a41eaf455372ac9da4322de902755ff95db788f,02_native_repair,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RSX_E01_E04_E05_Merged_CPU_Analysis.ipynb",fde7326ce9b6dd8feb48453374228afe24ce22e5,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RSX_E02_GPU_Context_Corruption.ipynb",bb78d10c77e9a880a148ffcb53b7a48e716ce5e3,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RSX_E03_GPU_Equivalent_Prompt_Disagreement.ipynb",41cd5e7dba101b987a319929327f0e37037e3114,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RepairScopeX_NB29B_Semantic_Cohort_Guarded_v3.ipynb",1245b136bc75b422a5895deeab96795aa51feac0,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RepairScopeX_NB29C_Harder_Semantic_Failures_v2.ipynb",3888e28c8af931dd556dedd01c6500a6a103192d,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RepairScopeX_NB29D_Next_Only_Continuation.ipynb",1d4f25d6775c89db541666db6cfcb45b60447fc8,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RepairScopeX_NB29E_144_Records_Only_New_Discovery.ipynb",4886deabba027017656db0e2b8d0e3bf593dfa96,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RepairScopeX_NB29F_CPU_Semantic_Output_Audit.ipynb",904df1b5ffdce047470e0ca7029c8dfeefb5d115,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RepairScopeX_NB29G_Length192_Targeted_Discovery.ipynb",7236eaaf24613f3c574fdecbeca7c5071b5cc036,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RepairScopeX_NB29H_Multi_Experiment_Resumable.ipynb",ca1a80769fe0a1708fde40382be287b15234edc2,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/03_evaluability/RepairScopeX_NB30_Validated_Evidence_Integration.ipynb",dad3d3fb7d2c4f64dc3a54cc30c31f180773a503,03_evaluability,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_E07_CPU_CrossStudy_Adjudication_Statistics.ipynb",c06d5cf251f0a7a5f76cfeed0086ff5c1d5139d3,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_E08_GPU_Repair_Locality_72_Trials.ipynb",1f063b588b1d015a1401b3dd4a8696045ca0f4ac,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_E09_GPU_Finalization_Routing_96_Trials.ipynb",f8b315c893def6856952c544c88c12ebe5d7f628,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_E10_Frozen_Prospective_144_GPU.ipynb",0812ec49f775ca73a436587cf1743cedf338563f,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_E11_Mechanism_150_GPU.ipynb",9ea60d1d3177d0aad828430922ea000b021d5617,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_E12_Independent_Audit_CPU.ipynb",c5106d17a242e9fdce8784f0acb3d57582415f7d,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_P1_Paired_Repair_Baselines_GPU.ipynb",00e65a99c825299d9ac4e7c41e3031c3ac0b005d,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_P2_Independent_Math_Oracle_CPU.ipynb",a9dc0dbcd385eb6ee86ee3de89ba0aa20b017c8f,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_V2_13_CPU_Scoring_Protocol_Audit.ipynb",7b2a549d832ca5e1399b6c840cc75745aa4e810c,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_V2_14_GPU_Risk_Gated_Calibration.ipynb",e5ce65192178e5ac0dc8e1245d69819cfed86524,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/04_policy_and_mechanism/RSX_V2_15_GPU_Locked_Heldout_Confirmation.ipynb",5639d45523189f03304459dfd2ae44bbddc823cb,04_policy_and_mechanism,"source recovered; held-out run blocked / not confirmed",no
-"notebooks/04_policy_and_mechanism/RepairScopeX_E06_Reliability_Guided_Router.ipynb",223fc15a376030e88b563a5bbca94f927db78c8b,04_policy_and_mechanism,"source recovered; execution status not inferred",no
-"notebooks/05_external_validation/RSX_Q1_R02_ALoDLM_GSM8K_SVAMP_GPU.ipynb",a2668073809d39fc600c0abad22e4c71eb92632c,05_external_validation,"source recovered; execution status not inferred",no
-"notebooks/05_external_validation/RSX_Q1_R03_Independent_0p5B_Masked_Diffusion_GPU.ipynb",1117b2d7d2e7b178ee43712bfb7cc90b1e4bb7ef,05_external_validation,"source recovered; execution status not inferred",no
-"notebooks/05_external_validation/RSX_Q1_R04_Meta_Analysis_CPU.ipynb",7f27d2385b7f3536128536f05f54648edd9c8cd0,05_external_validation,"source recovered; execution status not inferred",no
-"notebooks/05_external_validation/RSX_R05_CPU_Blinded_Human_Adjudication.ipynb",bc2a9b8084e04430698babea2ec7b3b305f3fbe9,05_external_validation,"source recovered; execution status not inferred",no
-"notebooks/05_external_validation/RSX_R06_GPU_Equal_Budget_Controls.ipynb",f780208763cdd3c20e952903d5cc057d81268b84,05_external_validation,"source recovered; execution status not inferred",no
-"notebooks/05_external_validation/RSX_R07_GPU_Prompt_Template_Sensitivity.ipynb",1bbdf953778391a86b4155f28db453883053c24d,05_external_validation,"source recovered; execution status not inferred",no
-"notebooks/05_external_validation/RepairScopeX_R08_Updated.ipynb",b3414ff803c94d7b035b2d7d8aa79b3919254358,05_external_validation,"source recovered; execution status not inferred",no
+path,git_blob_sha,collection,source_status,execution_status,cell_outputs_preserved
+"notebooks/01_foundations/02_SDLM_3B_STANDALONE_FIXED_v4.ipynb",d3e8bb8bc7cfc2494cb45ccd5c221cec5f4dd4a9,01_foundations,"source recovered","not determined from source",no
+"notebooks/01_foundations/03_RepairBench_X_Controlled_Failures_STANDALONE_FINAL.ipynb",8f61a1cdea73398d38cd1d7497aa91f7b5071b7b,01_foundations,"source recovered","not determined from source",no
+"notebooks/01_foundations/05_Repairability_Surface_and_Oracle_AR_Baseline_STANDALONE_FINAL.ipynb",5af73811655d2a375d92bdc5660c27c8718fa7d0,01_foundations,"source recovered","not determined from source",no
+"notebooks/01_foundations/06_Repair_Energy_and_Hysteresis_AR_Control_STANDALONE_FIXED_v2.ipynb",87ae698eb6a4c9d4c21d74d53eeeb32bf0dc9304,01_foundations,"source recovered","not determined from source",no
+"notebooks/01_foundations/RepairScopeX_Notebook08_Standalone.ipynb",175a716ef7ef678f0faa92914e2045c34070bcef,01_foundations,"source recovered","not determined from source",no
+"notebooks/02_native_repair/09_Dream7B_DLM_Selective_Remasking_Smoke_STANDALONE.ipynb",dac43e1978ad62f054322e55c7470c7c0a912bfe,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/10_Dream7B_DLM_Repair_Surface_Pilot_STANDALONE.ipynb",04c952b8864f1294676da8e299ad34a1ef2d9e33,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/11_Dream7B_Own_Natural_Failure_Collection_STANDALONE.ipynb",88d88aebd1189d85311224da4534a461c74f466f,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/12_Dream7B_Self_Repair_Surface_STANDALONE.ipynb",6ef393e042e9c1ad7766b8f74a93bdd84f41d87a,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/13_Dream7B_Independent_SelfRepair_Confirmation_STANDALONE.ipynb",dd8cb99671650e097fb831342213dd83c3522a56,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/14_ALoDLM17B_FP32_Own_Failures_STANDALONE.ipynb",c7e9fb2799135e7ec10d8ac4011f74c5c20f7a97,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/15_ALoDLM17B_FP32_Suffix_SelfRepair_STANDALONE.ipynb",c6be6efb69b88c48a964c2a5408057748fae030a,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_18_19_Combined_v6.ipynb",e962ec19f364d9f2ac811d121188dec84336fcc6,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_NB21_MDLM_Repair_CohortSafe_v2.ipynb",4aa21aa6ef7b6d122f190008c5301f1ed3237039,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_NB23_BD3LM_CohortFixed_v2.ipynb",04ed7501d5d99d293bec2ded7f25f4226638effb,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_NB24_CrossModel_Repair_Atlas.ipynb",b67404158fd88d2c0db8454c10c5d7484df8ed84,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_NB25_v4_Final_Arbitration_Standalone.ipynb",44f70fa3ef3995830f1590a3e92cbfc0eb337513,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_NB26_Repair_Persistence_Robustness.ipynb",d9703dcf9002eb62175b88547eba6112216fab02,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_NB27_PostAdjudication_Evidence_Freeze.ipynb",dd9b05f894971b602bd29c4cee1ee15ebac4521a,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_NB28_Long_Adaptive_SelfRepair_FP32.ipynb",8fd0e5c1a763e582f18fabcb3ad44cc56f3bbfc0,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_Notebook20_Generation_Length_v1.ipynb",35927451e2505458169f364d2995409999a7bf00,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RepairScopeX_Notebook22_Verification_Statistical_Audit_v1.ipynb",0a41eaf455372ac9da4322de902755ff95db788f,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RSX_NB18_MDLM_SelfRepair.ipynb",c204d62515c6f5e7b62f6d7917512d3e9b1e1182,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RSX_NB19_BD3LM_SelfRepair.ipynb",90d3fe1e86ffc1be002485aa3b506061c6d50c98,02_native_repair,"source recovered","not determined from source",no
+"notebooks/02_native_repair/RSX16_ALoDLM_FP32_Decoder_Ablation.ipynb",70091e4cfffadfd564dd7142f7e2280555e19c06,02_native_repair,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RepairScopeX_NB29_Combined_NB21_Completion_SemanticRepair.ipynb",a4951f980acf14e0c695b244b75e182a1cb4ef56,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RepairScopeX_NB29B_Semantic_Cohort_Guarded_v3.ipynb",1245b136bc75b422a5895deeab96795aa51feac0,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RepairScopeX_NB29C_Harder_Semantic_Failures_v2.ipynb",3888e28c8af931dd556dedd01c6500a6a103192d,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RepairScopeX_NB29D_Next_Only_Continuation.ipynb",1d4f25d6775c89db541666db6cfcb45b60447fc8,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RepairScopeX_NB29E_144_Records_Only_New_Discovery.ipynb",4886deabba027017656db0e2b8d0e3bf593dfa96,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RepairScopeX_NB29F_CPU_Semantic_Output_Audit.ipynb",904df1b5ffdce047470e0ca7029c8dfeefb5d115,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RepairScopeX_NB29G_Length192_Targeted_Discovery.ipynb",7236eaaf24613f3c574fdecbeca7c5071b5cc036,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RepairScopeX_NB29H_Multi_Experiment_Resumable.ipynb",ca1a80769fe0a1708fde40382be287b15234edc2,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RepairScopeX_NB30_Validated_Evidence_Integration.ipynb",dad3d3fb7d2c4f64dc3a54cc30c31f180773a503,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RSX_E01_E04_E05_Merged_CPU_Analysis.ipynb",fde7326ce9b6dd8feb48453374228afe24ce22e5,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RSX_E01_Evaluability_Taxonomy_CPU.ipynb",b56579ab31cd797944b5b6f657cc8a5cb0e30841,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RSX_E02_GPU_Context_Corruption.ipynb",bb78d10c77e9a880a148ffcb53b7a48e716ce5e3,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RSX_E03_GPU_Equivalent_Prompt_Disagreement.ipynb",41cd5e7dba101b987a319929327f0e37037e3114,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RSX_E04_Length_Paired_Analysis_CPU.ipynb",e561ee880e113285de9bd9d2ab4ead6cba3ec087,03_evaluability,"source recovered","not determined from source",no
+"notebooks/03_evaluability/RSX_E05_Design_Sensitivity_CPU.ipynb",399660f1610896e460161f4af5ebad0bd36b8a97,03_evaluability,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RepairScopeX_E06_Reliability_Guided_Router.ipynb",223fc15a376030e88b563a5bbca94f927db78c8b,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_E07_CPU_CrossStudy_Adjudication_Statistics.ipynb",c06d5cf251f0a7a5f76cfeed0086ff5c1d5139d3,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_E08_GPU_Repair_Locality_72_Trials.ipynb",1f063b588b1d015a1401b3dd4a8696045ca0f4ac,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_E09_GPU_Finalization_Routing_96_Trials.ipynb",f8b315c893def6856952c544c88c12ebe5d7f628,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_E10_Frozen_Prospective_144_GPU.ipynb",0812ec49f775ca73a436587cf1743cedf338563f,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_E11_Mechanism_150_GPU.ipynb",9ea60d1d3177d0aad828430922ea000b021d5617,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_E12_Independent_Audit_CPU.ipynb",c5106d17a242e9fdce8784f0acb3d57582415f7d,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_P1_Paired_Repair_Baselines_GPU.ipynb",00e65a99c825299d9ac4e7c41e3031c3ac0b005d,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_P2_Independent_Math_Oracle_CPU.ipynb",a9dc0dbcd385eb6ee86ee3de89ba0aa20b017c8f,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_V2_13_CPU_Scoring_Protocol_Audit.ipynb",7b2a549d832ca5e1399b6c840cc75745aa4e810c,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_V2_14_GPU_Risk_Gated_Calibration.ipynb",e5ce65192178e5ac0dc8e1245d69819cfed86524,04_policy_and_mechanism,"source recovered","not determined from source",no
+"notebooks/04_policy_and_mechanism/RSX_V2_15_GPU_Locked_Heldout_Confirmation.ipynb",5639d45523189f03304459dfd2ae44bbddc823cb,04_policy_and_mechanism,"source recovered","not run, gate blocked",no
+"notebooks/05_external_validation/RepairScopeX_R03_FIXED_DLLM_and_96Token.ipynb",4868ae37076a4765f04162f817215ff50feaff56,05_external_validation,"source recovered","not determined from source",no
+"notebooks/05_external_validation/RepairScopeX_R08_Updated.ipynb",b3414ff803c94d7b035b2d7d8aa79b3919254358,05_external_validation,"source recovered","not determined from source",no
+"notebooks/05_external_validation/RSX_Q1_R02_ALoDLM_GSM8K_SVAMP_GPU.ipynb",a2668073809d39fc600c0abad22e4c71eb92632c,05_external_validation,"source recovered","not determined from source",no
+"notebooks/05_external_validation/RSX_Q1_R03_Independent_0p5B_Masked_Diffusion_GPU.ipynb",1117b2d7d2e7b178ee43712bfb7cc90b1e4bb7ef,05_external_validation,"source recovered","not determined from source",no
+"notebooks/05_external_validation/RSX_Q1_R04_Meta_Analysis_CPU.ipynb",7f27d2385b7f3536128536f05f54648edd9c8cd0,05_external_validation,"source recovered","not determined from source",no
+"notebooks/05_external_validation/RSX_R05_CPU_Blinded_Human_Adjudication.ipynb",bc2a9b8084e04430698babea2ec7b3b305f3fbe9,05_external_validation,"source recovered","not determined from source",no
+"notebooks/05_external_validation/RSX_R06_GPU_Equal_Budget_Controls.ipynb",f780208763cdd3c20e952903d5cc057d81268b84,05_external_validation,"source recovered","not determined from source",no
+"notebooks/05_external_validation/RSX_R07_GPU_Prompt_Template_Sensitivity.ipynb",1bbdf953778391a86b4155f28db453883053c24d,05_external_validation,"source recovered","not determined from source",no
