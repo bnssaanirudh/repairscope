@@ -1,0 +1,16 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.env.*
+*.key
+*.pem
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.gguf
+weights/
+checkpoints/
+wandb/
+outputs/
